@@ -1,0 +1,59 @@
+1- O que são métodos HTTP?
+R: São um conjunto de verbos HTTP responsáveis por indicar a ação a ser executada para um dado recurso.
+
+
+2- Quais são os métodos HTTP mais utilizados atualmente?
+R: GET, POST, PUT e DELETE.
+
+
+3- Quais são os 2 principais métodos do HTTP Qual é a diferença entre eles?
+R:GET e POST.
+-GET os dados são enviados pela url, visivel ao usuario.
+-POST os dados são enviados na requisição e não pode ser visto pelo usuario.
+
+
+
+4) O que são requisições HTTP? Quais os tipos?
+R:Requisições HTTP são mensagens enviadas pelo cliente para iniciar uma ação no servidor. São do tipo GET, POST, HEAD, OPTIONS, PUT, DELETE e TRACE.
+
+
+
+5) Como funciona uma requisição?
+R: você digita algum site na barra de endereço e o navegador entende como uma pergunta e busca as respostas em um servidor trazendo de volta as informções encontradas. 
+
+
+6) O que é o método GET?
+R:É o que solicita a represntação de um recurso especifico. Requisições utilizando o método GET devem retornar apenas dados.
+
+
+
+7) Qual é o protocolo de internet para transferência segura, com uso de certificado digital, utilizado em sites de compras eletrônicas?
+R: HTTPS que auxilia na criptografia do hipertexto de uma forma mais segura.
+
+
+
+
+8) Quais os principais métodos de uma requisição REST?
+R: GET, POST, PUT, e DELETE.
+
+
+
+9) Qual a diferença entre IPv4 e IPv6?
+R:Ipv4 utiliza o mesmo numero de ip entre varios dispositivos, Ipv6 cada dispositivo tem um numero de ip diferente.
+
+
+
+10) Faça um resumo sobre os seguintes protocolos: http, tcp, ip, udp, smtp e ftp.
+R:
+
+HTTP: é um protocolo de transferência que possibilita que as pessoas que inserem a URL do seu site na Web possam ver os conteúdos e dados que nele existem.
+
+TCP: Leva as informações de um dispositivo ao outro.
+
+IP: Recebe, identifica e direciona as informações recebidas.
+
+UDP: É um protocolo de Internet mais simples e sem conexão, no qual os serviços de verificação e recuperação de erros não são necessários.
+
+SMTP: Protocolo de Transferência de Correio Simples é a tecnologia que permite que e-mails sejam enviados de um servidor para outro até serem entregues na caixa de correio.
+
+FTP:  Protocolo de Transferência de Arquivos.
